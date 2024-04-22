@@ -1,4 +1,4 @@
-<img align="right" alt="" height="300px" src="https://i.postimg.cc/v1R6pW1D/Foto-perfil2.png">
+<img align="right" alt="" height="200px" src="https://i.postimg.cc/v1R6pW1D/Foto-perfil2.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+me+chamo+Sara+Pires..)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@ Adoro jogar Dota2, assistir séries e animes.</p>
 
 
 
-<h3 align="left">:link: Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 [![E-mail](https://i.postimg.cc/HnwNnmCP/134146-mail-email-icon.png)](mailto:sarapires.dev@gmail.com)
 [![Instagram](https://i.postimg.cc/CKw2XLzK/1161953-instagram-icon.png)](https://www.instagram.com/sarapires.dev/)
@@ -21,7 +21,7 @@ Adoro jogar Dota2, assistir séries e animes.</p>
 
 
 
-<h3 align="left">:link: My Stack:</h3>
+<h3 align="left">My Stack:</h3>
 <div align="left">
   <img src="https://i.postimg.cc/5297m9yq/4373213-js-logo-logos-icon-1.png">
   <img src="https://i.postimg.cc/FKLjywyV/294678-html5-icon-2.png">
