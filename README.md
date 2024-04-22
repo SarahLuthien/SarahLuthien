@@ -12,7 +12,7 @@ Adoro jogar Dota2, assistir séries e animes.</p>
 
 <h3 align="left">Connect with me:</h3>
 
-[![134146-mail-email-icon.png](https://i.postimg.cc/HnwNnmCP/134146-mail-email-icon.png)](mailto:sarapires.dev@gmail.com)
+[![E-mail](https://i.postimg.cc/HnwNnmCP/134146-mail-email-icon.png)](mailto:sarapires.dev@gmail.com)
 
 
 
