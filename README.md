@@ -13,6 +13,7 @@ Adoro jogar Dota2, assistir séries e animes.</p>
 <h3 align="left">Connect with me:</h3>
 
 [![E-mail](https://i.postimg.cc/HnwNnmCP/134146-mail-email-icon.png)](mailto:sarapires.dev@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
 
 
 
