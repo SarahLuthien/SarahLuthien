@@ -10,22 +10,25 @@ Sempre procuro estar atualizada na área.
 Adoro jogar Dota2, assistir séries e animes.</p>
 
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">:link: Connect with me:</h3>
 
 [![E-mail](https://i.postimg.cc/HnwNnmCP/134146-mail-email-icon.png)](mailto:sarapires.dev@gmail.com)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+[![Instagram](https://i.postimg.cc/CKw2XLzK/1161953-instagram-icon.png)](https://www.instagram.com/sarapires.dev/)
+[![Linkedin](https://i.postimg.cc/fLPDM09C/5296501-linkedin-network-linkedin-logo-icon.png)](www.linkedin.com/in/sara-pires-dev)
 
 
 
-<div>
-  <img src="https://i.postimg.cc/8zjhYqhB/badge-challenge-one.png"
-</div>
 
-## :rocket: Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+<h3 align="left">:link: My Stack:</h3>
+<div align="left">
+  <img src="https://i.postimg.cc/5297m9yq/4373213-js-logo-logos-icon-1.png">
+  <img src="https://i.postimg.cc/FKLjywyV/294678-html5-icon-2.png">
+  <img src="https://i.postimg.cc/T2FfSSgD/317756-badge-css-css3-achievement-award-icon-2.png">
+  <img src="https://i.postimg.cc/jSK0Yr5L/7423888-react-react-native-icon-3.png">
+  <img src="https://i.postimg.cc/nhdVhLNX/1012821-code-development-logo-mysql-icon-2.png">
+</div><br>
 
-<a  href='https://postimages.org/' target='_blank'><img align="right" alt="" height="400px" src='https://i.postimg.cc/CK11nWgc/logo-animado-sarapires-1.gif' border='0' alt='logo-animado-sarapires-1'/></a><br /><a href='https://postimages.org/'></a><br />
+
+<a href='https://postimages.org/' target='_blank'><img align="left" alt="" height="400px" src='https://i.postimg.cc/CK11nWgc/logo-animado-sarapires-1.gif' border='0' alt='logo-animado-sarapires-1'/></a><br /><a href='https://postimages.org/'></a><br />
