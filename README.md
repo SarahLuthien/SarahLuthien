@@ -7,13 +7,15 @@
 <p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar e estou fazeendo curso de especialização Front-End pela ONE-Oracle.
 Eu sou apaixonada pelo universo dos código. Sou criativa e tenho um ótimo senso crítico o que me ajuda bastante no desenvolvimento dos códigos. 
 Sempre procuro estar atualizada na área. 
-Adoro jogar Dota2, assistir séries e animes.
+Adoro jogar Dota2, assistir séries e animes.</p>
 
-<h3 align="left">Connect with me!</h3>
 
-<a href='mailto:sarapires.dev@gmail.com' type="email" target='_blank'><img src='https://i.postimg.cc/HnwNnmCP/134146-mail-email-icon.png' border='0' alt='134146-mail-email-icon'/></a>
+<h3 align="left">Connect with me:</h3>
 
-</p>
+<a href='sarapires.dev@gmail.com' target='_blank'><img src='https://i.postimg.cc/HnwNnmCP/134146-mail-email-icon.png' border='0' alt='134146-mail-email-icon'/></a>
+
+
+
 <div>
   <img src="https://i.postimg.cc/8zjhYqhB/badge-challenge-one.png"
 </div>
