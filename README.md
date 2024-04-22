@@ -17,7 +17,7 @@ Adoro jogar Dota2, assistir séries e animes.</p>
 
 [![E-mail](https://i.postimg.cc/qM6k6FvL/6214722-email-envelope-gmail-letter-logo-icon.png)](mailto:sarapires.dev@gmail.com)
 [![Instagram](https://i.postimg.cc/52Lhqdvx/1161953-instagram-icon-1.png)](https://www.instagram.com/sarapires.dev/)
-[![Linkedin](https://i.postimg.cc/9QDnJ374/7156610-linkedin-social-media-icon.png)](www.linkedin.com/in/sara-pires-dev)
+[![Linkedin](https://i.postimg.cc/9QDnJ374/7156610-linkedin-social-media-icon.png)](https://www.linkedin.com/in/sara-pires-dev)
 
 
 
