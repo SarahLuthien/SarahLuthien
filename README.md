@@ -1,4 +1,4 @@
-<img align="right" alt="" height="200px" src="https://i.postimg.cc/v1R6pW1D/Foto-perfil2.png">
+<img align="right" alt="" height="200px" src="https://i.postimg.cc/v1R6pW1D/Foto-perfil2.png"><br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+me+chamo+Sara+Pires..)](https://git.io/typing-svg)
 
