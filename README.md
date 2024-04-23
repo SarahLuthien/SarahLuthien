@@ -33,5 +33,5 @@ Adoro jogar Dota2, assistir séries e animes.</p>
 </div>
 
 
-<h5><a href='https://postimages.org/' target='_blank'><img align="left" alt="" height="350px"  src='https://i.postimg.cc/Hsqn3yZb/logo-animado-sarapires-3.gif' border='0' alt='logo-animado-sarapires-3'/></a></h5>
+<h5><a href='https://postimages.org/' target='_blank'><img align="left" alt="" height="350px"  src='https://i.postimg.cc/PxwPnWSW/logo-animado-sarapires-4.gif' border='0' alt='logo-animado-sarapires-3'/></a></h5>
 
