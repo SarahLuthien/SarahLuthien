@@ -16,20 +16,23 @@ Adoro jogar Dota2, assistir séries e animes.</p>
 
 <h3 align="left">Connect with me:</h3>
 
-[![E-mail](https://i.postimg.cc/qM6k6FvL/6214722-email-envelope-gmail-letter-logo-icon.png)](mailto:sarapires.dev@gmail.com)
-[![Instagram](https://i.postimg.cc/52Lhqdvx/1161953-instagram-icon-1.png)](https://www.instagram.com/sarapires.dev/)
-[![Linkedin](https://i.postimg.cc/9QDnJ374/7156610-linkedin-social-media-icon.png)](https://www.linkedin.com/in/sara-pires-dev)
+[![E-mail](https://i.postimg.cc/MK7bBfvn/6214722-email-envelope-gmail-letter-logo-icon.png)](mailto:sarapires.dev@gmail.com)
+[![Instagram](https://i.postimg.cc/9FB6XMth/1161953-instagram-icon.png)](https://www.instagram.com/sarapires.dev/)
+[![Linkedin](https://i.postimg.cc/rwTdSdxP/7156610-linkedin-social-media-icon.png)](https://www.linkedin.com/in/sara-pires-dev)
 
 
 
 
-<h4 align="left">My Stack:</h4>
+<h3 align="left">My Stack:</h3>
 <div align="left">
-  <img src="https://i.postimg.cc/5297m9yq/4373213-js-logo-logos-icon-1.png">
-  <img src="https://i.postimg.cc/RZLtHhP4/317755-badge-html-html5-achievement-award-icon.png">
-  <img src="https://i.postimg.cc/T2FfSSgD/317756-badge-css-css3-achievement-award-icon-2.png">
-  <img src="https://i.postimg.cc/jSK0Yr5L/7423888-react-react-native-icon-3.png">
-  <img src="https://i.postimg.cc/76xm2j1Q/11120644-fi-brands-mysql-icon.png">
+  <img src="https://i.postimg.cc/wMbY2hYX/html-icon.png">
+  <img src="https://i.postimg.cc/Wpgt5zdM/css-icon.png">
+  <img src="https://i.postimg.cc/J0Dvh2t9/js-icon.png">
+  <img src="https://i.postimg.cc/yYwM5sWc/211904-social-github-icon.png">
+  <img src="https://i.postimg.cc/v852Bfmg/7564187-figma-logo-brand-icon.png">
+  <img src="https://i.postimg.cc/85rV0cN8/node-icon.png">
+  <img src="https://i.postimg.cc/CMNvVY19/mysql-icon.png">
+  <img src="https://i.postimg.cc/vBX5CYzz/react-icon.png">
 </div>
 
 
