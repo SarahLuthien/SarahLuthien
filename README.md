@@ -7,11 +7,13 @@
 
 
 <p align="left">Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Unicesumar.</p>
+
 <p> Possuo curso de especialização em Front-End pela ONE-Oracle: <a href="https://cursos.alura.com.br/user/sarapires-dev/fullCertificate/2d280a1dfd981fc4caf19a2320810555">Certificado.</a></p><br>
 <p>Sou apaixonada pelo universo dos códigos e sempre estou a procura de novos conhecimentos na área. 
 Adoro jogar, assistir séries, cozinhar e aproveitar o tempo com minha família.</p>
 
-
+## 💼 Atualmente
+- 🚀 Estagiária em **Full Stack** na [Compass UOL](https://compass.uol/)
 
 
 <h3 align="left">Connect with me:</h3>
