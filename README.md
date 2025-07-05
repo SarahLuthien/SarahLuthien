@@ -13,7 +13,7 @@
 Adoro jogar, assistir séries, cozinhar e aproveitar o tempo com minha família.</p>
 
 ## 💼 Atualmente
-- 🚀 Estagiária em **Full Stack** na [Compass UOL](https://compass.uol/)
+- 🚀 Estagiária  **Full Stack** na empresa [Compass UOL](https://compass.uol/)
 
 
 <h3 align="left">Connect with me:</h3>
