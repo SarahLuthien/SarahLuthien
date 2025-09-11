@@ -63,7 +63,7 @@ No tempo livre gosto de **jogar, assistir séries, cozinhar e aproveitar minha f
 
 ## 🚀 Projetos em Destaque  
 
-- 🔹 [**Furniro - Loja de Móveis**](https://furniro-sarapires.vercel.app/) — Projeto de e-commerce moderno, responsivo e com foco em UI/UX.  
+- 🔹 [**Furniro - Loja de Móveis**](https://desafio-3-ecommerce-three.vercel.app/) — Projeto de e-commerce moderno, responsivo e com foco em UI/UX.  
 - 🔹 [**Meteora - E-commerce de Moda**](https://meteora-ecommerce.vercel.app/) — E-commerce em React com Context API.  
 - 🔹 [**Petshop Paws in Play**](https://petshop-pawsin-play.vercel.app/) — Aplicação com foco em UI/UX e integração responsiva.  
 
