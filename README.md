@@ -1,4 +1,4 @@
-<img align="right" alt="image-anime-sarah" height="300px" src="https://i.postimg.cc/cJgWvxGT/sara-anime-picture.png">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=500&height=40&lines=Ol%C3%A1%2C+me+chamo+Sara+Pires...)](https://git.io/typing-svg)
 
