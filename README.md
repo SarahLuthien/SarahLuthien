@@ -15,6 +15,7 @@ No tempo livre gosto de **jogar, assistir séries, cozinhar e aproveitar minha f
 ---
 
 ## 💼 Experiência
+- 🚀 **Estagiária em Desenvolvimento** — [Mercado Eletrônico](https://institucional.me.com.br/) *(17/11/2025 – Atual)* 
 - 🚀 **Estagiária Full Stack** — [Compass UOL](https://compass.uol/) *(Mar – Set 2025)*  
 
 ---
